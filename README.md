@@ -7,7 +7,8 @@ among the community.
 
 Translations of the guide are available in the following languages:
 
-* [Chinese Simplified](https://github.com/aseaday/git-style-guide)
+* [Simplified Chinese](https://github.com/aseaday/git-style-guide)
+* [Traditional Chinese](https://github.com/JuanitoFatas/git-style-guide)
 * [Portuguese](https://github.com/guylhermetabosa/git-style-guide)
 
 If you feel like contributing, please do so! Fork the project and open a pull
